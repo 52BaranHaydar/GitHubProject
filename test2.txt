@@ -1,1 +1,3 @@
 Text 2 dosyamızı oluşturduk.
+
+Text 2 dosyamızı test-branch içerisinde değiştiriyorum
